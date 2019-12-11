@@ -7,10 +7,6 @@ namespace WebApplication1
 {
     public class Class
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("github");
-            Console.Read();
-        }
+        
     }
 }
