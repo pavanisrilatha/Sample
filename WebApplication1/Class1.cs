@@ -9,7 +9,7 @@ namespace WebApplication1
     {
         public void getData()
         {
-            Console.WriteLine("github");
+            Console.WriteLine("git");
             Console.Read();
         }
     }
